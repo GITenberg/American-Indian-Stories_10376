@@ -1,0 +1,34 @@
+_repo: American-Indian-Stories_10376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zitkala-Sa
+    aliases:
+    - Bonnin, Gertrude
+    - Simmons, Gertrude
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '188'
+    url: http://www.gutenberg.org/2009/agents/188
+    wikipedia: http://en.wikipedia.org/wiki/Zitkala-Sa
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Native America
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zitkala-Sa, 1876-1938'
+- !lcsh 'Yankton Indians -- Social conditions'
+- !lcsh 'Yankton women -- Biography'
+- !lcc 'E011'
+- !lcsh 'Yankton Indians -- Government relations'
+- GITenberg
+title: American Indian Stories
+url: http://www.gutenberg.org/ebooks/10376
